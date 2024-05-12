@@ -70,7 +70,7 @@ i{
 }
 #igicon{
     font-size:24px;
-    color:252 175 69;
+    color: rgb(252, 175, 69);
     position: absolute;
     bottom:0.8em;
     left:1.5em
